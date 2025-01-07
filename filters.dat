@@ -1201,7 +1201,7 @@ edatop.com08@R/image/ads/
 /pagepeel.
 08@R/pagepeelpro.js?
 &08@R/parsonsmaize/abilene.js
-&08@R/parsonsmaize/chanute.jsı
+&08@R/parsonsmaize/chanute.jsû
 &08@R/parsonsmaize/mulvane.js
 %08@R/parsonsmaize/olathe.js
 08@R/partnerads/js/
@@ -1279,7 +1279,7 @@ ohaytv.biz08@R/pop.js
 ÿï08@R/popunder7.
 ÿï08@R
 /popunder?
-"÷ï08@R/popup-domination/
+ 08@R/popup-domination/
 08@R
 /popup2.js
 08@R
@@ -3719,7 +3719,7 @@ Zÿï08@RJkijiji.ca#?#[data-testid^="listing-card-list-item-"]:-abp-conta
 <ÿï08@R,kogan.com#?#._2EeeR:-abp-contains(Sponsored)
 Nÿï08@R>kogan.com#?#.rs-infinite-scroll > div:-abp-contains(Sponsored)
 Bÿï08@R2kogan.com#?#.slider-slide:-abp-contains(Sponsored)
-`ÿï08@RPkslnewsradio.com,ksltv.com,ktar.com#?#.wrapper:-abp-contains(Sponsored Articles)‚<
+`ÿï08@RPkslnewsradio.com,ksltv.com,ktar.com#?#.wrapper:-abp-contains(Sponsored Articles)º>
 Gÿï08@R7leadership.ng#?#.jeg_postblock:-abp-contains(SPONSORED)
 dÿï08@RTlinkedin.com#?#.msg-overlay-list-bubble__conversations-list:-abp-contains(Sponsored)
 ìÿï08@RÛlinkedin.com#?#div.feed-shared-update-v2:-abp-has(span.update-components-actor__description:-abp-contains(/Anzeige|Sponsored|Promoted|Dipromosikan|PropagovÃ¡no|Promoveret|Gesponsert|Promocionado|ä¿ƒéŠ·å…§å®¹|Post sponsorisÃ©|í”„ë¡œëª¨ì…˜|Post sponsorizzato|å¹¿å‘Š|ãƒ—ãƒ­ãƒ¢ãƒ¼ã‚·ãƒ§ãƒ³|TreÅ›Ä‡ promowana|Patrocinado|Promovat|ĞŸÑ€Ğ¾Ğ´Ğ²Ğ¸Ğ³Ğ°ĞµÑ‚ÑÑ|MarknadsfÃ¶rt|Nai-promote|à¹„à¸”à¹‰à¸£à¸±à¸šà¸à¸²à¸£à¹‚à¸›à¸£à¹‚à¸¡à¸—|Ã–ne Ã§Ä±karÄ±lan iÃ§erik|Gepromoot|Ø§Ù„ØªØ±ÙˆÙŠØ¬/))
@@ -3745,7 +3745,6 @@ pÿï08@R`petco.com#?#[class^="CitrusCatapult-styled__LeftContent"]:-abp-
 Lÿï08@R<pornhub.com#?#:-abp-properties(height: 300px; width: 315px;)
 gÿï08@RWpornhub.com,youporn.com#?#:-abp-properties(float: right; margin-top: 30px; width: 50%;)
 Bÿï08@R2producthunt.com#?#.text-12:-abp-contains(Promoted)
-Bÿï08@R2quora.com#?#.q-sticky:-abp-contains(Advertisement)
 Kÿï08@R;qz.com#?#div[class^="sc-"]:-abp-has(> div[class="ad-unit"])
 Jÿï08@R:qz.com#?#div[class^="sc-"]:-abp-has(> div[is="bulbs-dfp"])
 ‹ÿï08@R{redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youporngay.com#?#:-abp-properties(*data:image*)
@@ -3783,8 +3782,8 @@ nÿï08@R^tripadvisor.com#?#[data-automation="relatedStories"] div > div:
 rÿï08@Rbulta.com#?#li.ProductListingResults__productCard:has(.ProductCard__badge:-abp-contains(Sponsored))
 8ÿï08@R(vofomovies.info#?#a13:-abp-contains( Ad)
 Eÿï08@R5walmart.*#?#div > div[io-id]:-abp-contains(Sponsored)
-Rÿï08@RBwalmart.ca,walmart.com#?#div > div[io-id]:-abp-contains(Sponsored)ı
-ùÿï08@Rèyelp.at,yelp.be,yelp.ca,yelp.ch,yelp.cl,yelp.co.jp,yelp.co.nz,yelp.co.uk,yelp.com,yelp.com.ar,yelp.com.au,yelp.com.br,yelp.com.hk,yelp.com.mx,yelp.com.ph,yelp.com.sg,yelp.com.tr,yelp.cz,yelp.de,yelp.dk,yelp.es,yelp.fi,yelp.fr,yelp.ie,yelp.it,yelp.my,yelp.nl,yelp.no,yelp.pl,yelp.pt,yelp.se#?#main[class^="searchResultsContainer"] li h2:-abp-contains(Sponsored)
+Rÿï08@RBwalmart.ca,walmart.com#?#div > div[io-id]:-abp-contains(Sponsored)
+ùÿï08@Rèyelp.at,yelp.be,yelp.ca,yelp.ch,yelp.cl,yelp.co.jp,yelp.co.nz,yelp.co.uk,yelp.com,yelp.com.ar,yelp.com.au,yelp.com.br,yelp.com.hk,yelp.com.mx,yelp.com.ph,yelp.com.sg,yelp.com.tr,yelp.cz,yelp.de,yelp.dk,yelp.es,yelp.fi,yelp.fr,yelp.ie,yelp.it,yelp.my,yelp.nl,yelp.no,yelp.pl,yelp.pt,yelp.se#?#main[class^="searchResultsContainer"] li h2:-abp-contains(Sponsored)¢
 Dÿï08@R4yourstory.com#?#[width]:-abp-contains(ADVERTISEMENT)
 +®*
 canyoublockit.com08@Rhttp://
@@ -3853,8 +3852,8 @@ $"*
 ÿï08@R0c0b6e3f.xyz^
 ÿï08@R0cc29a3ac1.com^
 ÿï08@R	0cdn.xyz^
-ÿï08@R0cf.io^
-ÿï08@R0d076be0f4.com^
+ÿï08@R0cf.io^
+ÿï08@R0d076be0f4.com^
 ÿï08@R0d785fd7.xyz^
 ÿï08@R0eade9dd8d.com^
 ÿï08@R	0emn.com^
@@ -3918,8 +3917,8 @@ $ÿï08@R123animehub.cc/final
 'ÿï08@R1337x.*/images/x2x8.jpg
 "ÿï08@R1337x.to/js/vpn.js
 ÿï08@R1350c3.xyz^
-ÿï08@R1370065b3a.com^²
-ÿï08@R137kfj65k.de^
+ÿï08@R1370065b3a.com^
+ÿï08@R137kfj65k.de^³
 ÿï08@R13b3403320.com^
 ÿï08@R13b696a4c1.com^
 ÿï08@R13c4491879.com^
@@ -3982,8 +3981,8 @@ $ÿï08@R123animehub.cc/final
 ÿï08@R18788fdb24.com^
 ÿï08@R188.42.84.110^
 ÿï08@R188.42.84.137^
-ÿï08@R188.42.84.159^»
-ÿï08@R188.42.84.160^
+ÿï08@R188.42.84.159^
+ÿï08@R188.42.84.160^º
 ÿï08@R188.42.84.162^
 ÿï08@R188.42.84.21^
 ÿï08@R188.42.84.23^
@@ -4047,8 +4046,8 @@ $ÿï08@R123animehub.cc/final
 ÿï08@R1j771bhgi.de^
 ÿï08@R1jpbh5iht.de^
 !ÿï08@R1jsskipuf8sd.com^
-ÿï08@R1jutu5nnx.com^ã
-ÿï08@R1knhg4mmq.de^
+ÿï08@R1jutu5nnx.com^
+ÿï08@R1knhg4mmq.de^å
 ÿï08@R1lbk62l5c.de^
 ÿï08@R1lj11b2ii.de^
 ÿï08@R1m72cfole.de^
@@ -4118,8 +4117,8 @@ $ÿï08@R123animehub.cc/final
 ÿï08@R203.195.121.28^
 ÿï08@R203.195.121.29^
 ÿï08@R203.195.121.34^
-ÿï08@R203.195.121.36^«
-ÿï08@R203.195.121.40^
+ÿï08@R203.195.121.36^
+ÿï08@R203.195.121.40^®
 ÿï08@R203.195.121.46^
 ÿï08@R203.195.121.70^
 ÿï08@R203.195.121.72^
@@ -4185,8 +4184,8 @@ $ÿï08@R123animehub.cc/final
 !ÿï08@R24-sportnews.com^
 ÿï08@R24052107.live^
 ÿï08@R240aca2365.com^
-"ÿï08@R2435march2024.com^Ù
-"ÿï08@R2447march2024.com^
+"ÿï08@R2435march2024.com^
+"ÿï08@R2447march2024.com^Ö
 "ÿï08@R2449march2024.com^
 ÿï08@R244kecmb3.de^
 "ÿï08@R2469april2024.com^
@@ -4251,8 +4250,8 @@ $ÿï08@R123animehub.cc/final
 ÿï08@R2beon.co.kr^
 !ÿï08@R2bps53igop02.com^
 ÿï08@R2c4rrl8pe.de^
-ÿï08@R2c5d30b6f1.com^
-ÿï08@R2cba2742a4.com^
+ÿï08@R2c5d30b6f1.com^
+ÿï08@R2cba2742a4.com^
 ÿï08@R2cjlj3c15.de^
 "ÿï08@R2cnjuh34jbman.com^
 $ÿï08@R2cnjuh34jbpoint.com^
@@ -4316,8 +4315,8 @@ $ÿï08@R2cnjuh34jbpoint.com^
 0ÿï08@R 2oceansvibe.com/?custom=takeover
 ÿï08@R2om93s33n.de^
 ÿï08@R2p1kreiqg.de^
-ÿï08@R2pc6q54ga.de^‰
- ÿï08@R2performant.com^
+ÿï08@R2pc6q54ga.de^
+ ÿï08@R2performant.com^†
 !ÿï08@R2qj7mq3w4uxe.com^
 ÿï08@R2rb5hh5t6.de^
 ÿï08@R2re6rpip2.de^
@@ -4380,8 +4379,8 @@ $ÿï08@R2watchmygf.com/spot/
 ÿï08@R32472254.xyz^
 ÿï08@R32596c0d85.com^
 ÿï08@R32ae2295ab.com^
-ÿï08@R33848102.xyz^­
-ÿï08@R33862684.xyz^
+ÿï08@R33848102.xyz^
+ÿï08@R33862684.xyz^®
 ÿï08@R33across.com^
 ÿï08@R34.102.137.201^
 !ÿï08@R341k4gu76ywe.top^
@@ -4447,8 +4446,8 @@ $ÿï08@R38fbsbhhg0702m.shop^
 ÿï08@R3mhg.online^
 ÿï08@R
 3mhg.site^
-ÿï08@R3movs.com/2ff/–
-ÿï08@R3movs.xxx/2ff/
+ÿï08@R3movs.com/2ff/
+ÿï08@R3movs.xxx/2ff/—
 ÿï08@R
 3myad.com^
 ÿï08@R3naked.com/nb/
@@ -4512,8 +4511,8 @@ $ÿï08@R38fbsbhhg0702m.shop^
 ÿï08@R49706204.xyz^
 ÿï08@R49766251.xyz^
 ÿï08@R49b6b77e56.com^
-ÿï08@R49d4db4864.com^
-ÿï08@R4a9517991d.com^
+ÿï08@R49d4db4864.com^
+ÿï08@R4a9517991d.com^›
 ÿï08@R4aae8f.site^
 ÿï08@R4afa45f1.xyz^
 ÿï08@R4affiliate.net^
@@ -4579,8 +4578,8 @@ $€08@R4fcams.com/in/?track=
 ÿï08@R51.77.227.102^
 ÿï08@R51.77.227.103^
 ÿï08@R51.77.227.96^
-ÿï08@R51.77.227.97^
-ÿï08@R51.77.227.98^
+ÿï08@R51.77.227.97^
+ÿï08@R51.77.227.98^‹
 ÿï08@R51.77.227.99^
 ÿï08@R51.89.187.136^
 ÿï08@R51.89.187.137^
@@ -4644,9 +4643,9 @@ $€08@R4fcams.com/in/?track=
 ÿï08@R5fet4fni.de^
 ÿï08@R5h3oyhv838.com^
 ÿï08@R5icim50.de^
-ÿï08@R5ivy3ikkt.com^°
+ÿï08@R5ivy3ikkt.com^
 ÿï08@R
-5mno3.com^
+5mno3.com^·
 ÿï08@R	5nfc.net^
 ÿï08@R5nt1gx7o57.com^
 ÿï08@R5o8aj5nt.de^
@@ -4709,8 +4708,8 @@ $€08@R4fcams.com/in/?track=
 ÿï08@R6ac78725fd.com^
 ÿï08@R6b6c1b838a.com^
 ÿï08@R6b70b1086b.com^
-ÿï08@R6b856ee58e.com^¥
-!ÿï08@R6bgaput9ullc.com^
+ÿï08@R6b856ee58e.com^
+!ÿï08@R6bgaput9ullc.com^¡
 ÿï08@R6ca9278a53.com^
 ÿï08@R6ce02869b9.com^
 ÿï08@R6de72955d8.com^
@@ -4774,8 +4773,8 @@ $€08@R4fcams.com/in/?track=
 ÿï08@R78733f9c3c.com^
 ÿï08@R78847798.xyz^
 ÿï08@R78b78ff8.xyz^
-ÿï08@R78bk5iji.de^Í
-ÿï08@R79180284.xyz^
+ÿï08@R78bk5iji.de^
+ÿï08@R79180284.xyz^Í
 ÿï08@R7944bcc817.com^
 ÿï08@R79dc3bce9d.com^
 !ÿï08@R79k52baw2qa3.com^
@@ -4839,8 +4838,8 @@ $€08@R4fcams.com/in/?track=
 ÿï08@R888media.net^
 ÿï08@R888promos.com^
 $ÿï08@R88d7b6aa44fb8eb.com^
-ÿï08@R88eq7spm.de^½
-ÿï08@R89263907.xyz^
+ÿï08@R88eq7spm.de^
+ÿï08@R89263907.xyz^½
 ÿï08@R89407765.xyz^
 ÿï08@R89871256.xyz^
 ÿï08@R89dfa3575e.com^
@@ -4905,8 +4904,8 @@ $ÿï08@R88d7b6aa44fb8eb.com^
 ÿï08@R98140548.xyz^
 ÿï08@R9814b49f.xyz^
 ÿï08@R98383163.xyz^
-ÿï08@R98738797.xyz^…
-ÿï08@R98853171.xyz^
+ÿï08@R98738797.xyz^
+ÿï08@R98853171.xyz^‡
 ÿï08@R990828ab3d.com^
 ÿï08@R994e4a6044.com^
 ÿï08@R997b409959.com^
@@ -4926,6 +4925,7 @@ $ÿï08@R88d7b6aa44fb8eb.com^
 !ÿï08@R9cd76b4462bb.com^
 ÿï08@R9d2cca15e4.com^
 ÿï08@R9d603009eb.com^
+ÿï08@R9d87b35397.com^
 ÿï08@R9dccbda825.com^
 ÿï08@R9desires.xyz^
 !ÿï08@R9dmnv9z0gtoh.com^
